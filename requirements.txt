@@ -1,0 +1,8 @@
+ollama
+pdfminer.six
+python-docx
+python-pptx
+pytesseract
+Pillow
+tqdm
+PyYAML

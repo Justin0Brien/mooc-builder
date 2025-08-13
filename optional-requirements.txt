@@ -1,0 +1,4 @@
+# Optional extras for extended functionality
+# Install with: pip install -r optional-requirements.txt
+# Whisper for video transcription (requires ffmpeg system package)
+openai-whisper

@@ -1,0 +1,5 @@
+instructors:
+  - name: Jane Doe
+    email: jane@example.edu
+  - name: John Smith
+    email: john@example.edu

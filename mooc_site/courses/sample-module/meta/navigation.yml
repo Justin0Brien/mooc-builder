@@ -1,0 +1,9 @@
+sidebar:
+  - title: Overview
+    url: /courses/sample-module/
+  - title: Weeks
+    children:
+      - title: Week 01
+        url: /courses/sample-module/weeks/week-01/
+      - title: Week 02
+        url: /courses/sample-module/weeks/week-02/

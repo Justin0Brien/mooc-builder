@@ -1,0 +1,6 @@
+<nav class="breadcrumbs">
+  <a href="{{ '/' | relative_url }}">Home</a>
+  {% if page.collection == 'courses' %}
+    &raquo; <a href="{{ '/courses/' | relative_url }}">Courses</a>
+  {% endif %}
+</nav>

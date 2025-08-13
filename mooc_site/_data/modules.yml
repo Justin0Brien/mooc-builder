@@ -1,0 +1,4 @@
+modules:
+  - slug: sample-module
+    title: Sample Module
+    description: Placeholder module.

@@ -1,0 +1,14 @@
+title: MOOC Site
+baseurl: ""
+url: ""
+markdown: kramdown
+theme: minima
+collections:
+  courses:
+    output: true
+    permalink: /courses/:path/
+exclude:
+  - node_modules
+  - vendor
+  - README.md
+plugins: []
