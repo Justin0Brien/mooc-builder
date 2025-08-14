@@ -3,4 +3,4 @@ layout: plain
 title: Schedule
 ---
 
-Week-by-week schedule table.
+Part-by-part schedule table.

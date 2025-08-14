@@ -1,9 +1,25 @@
 sidebar:
   - title: Overview
     url: /courses/sample-module/
-  - title: Weeks
+  - title: Parts
     children:
-      - title: Week 01
-        url: /courses/sample-module/weeks/week-01/
-      - title: Week 02
-        url: /courses/sample-module/weeks/week-02/
+      - title: Part 01
+        url: /courses/sample-module/parts/part-01/
+      - title: Part 02
+        url: /courses/sample-module/parts/part-02/
+      - title: Part 03
+        url: /courses/sample-module/parts/part-03/
+      - title: Part 04
+        url: /courses/sample-module/parts/part-04/
+      - title: Part 05
+        url: /courses/sample-module/parts/part-05/
+      - title: Part 06
+        url: /courses/sample-module/parts/part-06/
+      - title: Part 07
+        url: /courses/sample-module/parts/part-07/
+      - title: Part 08
+        url: /courses/sample-module/parts/part-08/
+      - title: Part 09
+        url: /courses/sample-module/parts/part-09/
+      - title: Part 10
+        url: /courses/sample-module/parts/part-10/
